@@ -1,0 +1,19 @@
+body{
+  background-color:rgb(23, 12, 77);
+  color:white;
+  font-family: arial;
+  font-size: 26px;
+}
+
+.reset-btn{
+  border-radius:50px;
+  border-color: pink;
+  border-width: 20px;
+  padding: 10px 30px;
+}
+
+img{
+  width: 150px;
+  height: 250px;
+  cursor: pointer;
+}
